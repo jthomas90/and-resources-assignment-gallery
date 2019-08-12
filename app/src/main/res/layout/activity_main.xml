@@ -14,19 +14,13 @@
             
             <LinearLayout
                     android:id="@+id/left_column"
-                    style="@style/VerticalColumn"
-                    android:orientation="horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
+                    style="@style/VerticalColumn">
 
             </LinearLayout>
 
             <LinearLayout
                     android:id="@+id/right_column"
-                    style="@style/VerticalColumn"
-                    android:orientation="horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
+                    style="@style/VerticalColumn">
 
             </LinearLayout>
 
